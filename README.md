@@ -3,4 +3,4 @@ Repositorio que contiene el material utilizado en el seminario impartido en MANA
 
 En este seminario crearemos un modelo de NLP que nos ayude a analizar y predecir el sentimiento descrito en una serie de tweets relacionados con algunas de las aerolíneas más conocidas de Norte América.
 
-Este [link]() proporciona acceso al material de manera remota.
+Este link proporciona acceso al material de manera remota: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crobledolete/manadine-nlp/main)
